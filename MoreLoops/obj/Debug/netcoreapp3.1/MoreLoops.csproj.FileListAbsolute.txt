@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\MoreLoops\bin\Debug\netcoreapp3.1\MoreLoops.exe
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\MoreLoops\bin\Debug\netcoreapp3.1\MoreLoops.deps.json
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\MoreLoops\bin\Debug\netcoreapp3.1\MoreLoops.runtimeconfig.json
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\MoreLoops\bin\Debug\netcoreapp3.1\MoreLoops.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\MoreLoops\bin\Debug\netcoreapp3.1\MoreLoops.dll
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\MoreLoops\bin\Debug\netcoreapp3.1\MoreLoops.pdb
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\MoreLoops\obj\Debug\netcoreapp3.1\MoreLoops.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\MoreLoops\obj\Debug\netcoreapp3.1\MoreLoops.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\MoreLoops\obj\Debug\netcoreapp3.1\MoreLoops.AssemblyInfo.cs
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\MoreLoops\obj\Debug\netcoreapp3.1\MoreLoops.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\MoreLoops\obj\Debug\netcoreapp3.1\MoreLoops.dll
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\MoreLoops\obj\Debug\netcoreapp3.1\MoreLoops.pdb
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\MoreLoops\obj\Debug\netcoreapp3.1\MoreLoops.genruntimeconfig.cache
